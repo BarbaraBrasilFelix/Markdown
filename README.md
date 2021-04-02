@@ -6,7 +6,7 @@
 
 _itálico_
 
-🙂
+🙂 (emoticon)
 
  - lista
  - n
